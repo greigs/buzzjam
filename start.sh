@@ -1,1 +1,1 @@
-pd-extended -rt -alsamidi -noaudio -open keytar.pd
+pd-extended -rt -noaudio -open keytar.pd

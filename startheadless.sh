@@ -1,1 +1,1 @@
-pd-extended -rt  -noaudio -nogui -open keytar.pd > /dev/null 2>&1 &
+pd-extended -rt  -noaudio -nogui -open ~/buzzjam/keytar.pd
